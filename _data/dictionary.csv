@@ -1,0 +1,2 @@
+System,Subject Area,Table Name,Table Description,Column Name,Column Description,Data Type,Length,Nullable,PK,FK,Referenced Tables
+SAP,Finance,BKPF,Document Header,BELNR,Document Number,CHAR,10,N,Y,,BSEG
