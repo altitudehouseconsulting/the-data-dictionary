@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Data Dictionary</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f0f0f0; }
+    input, select { margin: 5px; padding: 5px; }
+    .disclaimer { margin-top: 40px; font-size: 0.9em; color: #555; background: #f9f9f9; padding: 15px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <h1>The Data Dictionary</h1>
+  <p>This searchable data dictionary provides definitions, relationships, and key metadata for systems such as SAP and PeopleSoft. It is intended to support ERP governance, system integration, and report development.</p>
+
+  <label for="systemFilter">Filter by System:</label>
+  <select id="systemFilter">
+    <option value="">All</option>
+  </select>
+
+  <label for="subjectFilter">Filter by Subject Area:</label>
+  <select id="subjectFilter">
+    <option value="">All</option>
+  </select>
+
+  <label for="searchBox">Search:</label>
+  <input type="text" id="searchBox" placeholder="Enter keyword"/>
+
+  <table id="dictionaryTable">
+    <thead>
+      <tr>
+        <th>System</th>
+        <th>Subject Area</th>
+        <th>Table Name</th>
+        <th>Table Description</th>
+        <th>Column Name</th>
+        <th>Column Description</th>
+        <th>Data Type</th>
+        <th>Length</th>
+        <th>Nullable</th>
+        <th>PK</th>
+        <th>FK</th>
+        <th>Referenced Tables</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <div class="disclaimer">
+    <h3>⚠️ Disclaimer</h3>
+    <p>The information contained in this data dictionary is provided for <strong>educational and informational purposes only</strong>. It does not guarantee the accuracy, completeness, or current validity of any technical implementation.</p>
+    <p>This dictionary should not be used as the sole source of truth for production systems, configurations, or integration efforts. Always verify system metadata with official ERP documentation, technical teams, or product support channels.</p>
+    <p>By using this site, you acknowledge that:
+      <ul>
+        <li>The content is provided without warranties of any kind</li>
+        <li>Decisions made using this resource are at your own risk</li>
+        <li>You are responsible for verifying the appropriateness of any field or reference</li>
+      </ul>
+    </p>
+  </div>
+
+  <script>
+    let tableData = [];
+
+    fetch('cleaned_data_dictionary.csv')
+      .then(response => response.text())
+      .then(data => {
+        const lines = data.split('\n');
+        const headers = lines[0].split(',');
+        tableData = lines.slice(1).map(row => row.split(',')).filter(row => row.length >= 12);
+        populateFilters();
+        renderTable();
+      });
+
+    function sanitize(str) {
+      return str.replace(/[^\w\s]/gi, '');
+    }
+
+    function populateFilters() {
+      const systemSet = new Set();
+      const subjectSet = new Set();
+      tableData.forEach(row => {
+        systemSet.add(row[0]);
+        subjectSet.add(row[1]);
+      });
+      systemSet.forEach(val => {
+        const opt = document.createElement('option');
+        opt.value = val; opt.textContent = val;
+        document.getElementById('systemFilter').appendChild(opt);
+      });
+      subjectSet.forEach(val => {
+        const opt = document.createElement('option');
+        opt.value = val; opt.textContent = val;
+        document.getElementById('subjectFilter').appendChild(opt);
+      });
+    }
+
+    function renderTable() {
+      const tbody = document.querySelector('#dictionaryTable tbody');
+      tbody.innerHTML = '';
+      const system = document.getElementById('systemFilter').value;
+      const subject = document.getElementById('subjectFilter').value;
+      const search = sanitize(document.getElementById('searchBox').value.toLowerCase());
+
+      tableData.forEach(row => {
+        const matchSystem = !system || row[0] === system;
+        const matchSubject = !subject || row[1] === subject;
+        const searchText = row.slice(0, 12).join(' ').toLowerCase();
+        const matchSearch = !search || sanitize(searchText).includes(search);
+        if (matchSystem && matchSubject && matchSearch) {
+          const tr = document.createElement('tr');
+          row.slice(0, 12).forEach(cell => {
+            const td = document.createElement('td');
+            td.textContent = cell;
+            tr.appendChild(td);
+          });
+          tbody.appendChild(tr);
+        }
+      });
+    }
+
+    document.getElementById('systemFilter').addEventListener('change', renderTable);
+    document.getElementById('subjectFilter').addEventListener('change', renderTable);
+    document.getElementById('searchBox').addEventListener('input', renderTable);
+  </script>
+</body>
+</html>
