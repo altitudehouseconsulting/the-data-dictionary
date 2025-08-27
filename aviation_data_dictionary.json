@@ -1,0 +1,4502 @@
+[
+  {
+    "data_element": "Safety_5565",
+    "description": "Safety 5565 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX1882",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_4774",
+    "description": "Safety 4774 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX4291",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_3751",
+    "description": "Safety 3751 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX5387",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_3030",
+    "description": "Maintenance 3030 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "ENUM",
+    "sample_value": "EX7970",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8445",
+    "description": "Safety 8445 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX6654",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_9760",
+    "description": "Maintenance 9760 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX7757",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_8291",
+    "description": "Safety 8291 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX4457",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9659",
+    "description": "Record 9659 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX8492",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1231",
+    "description": "Maintenance 1231 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX5895",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_7505",
+    "description": "Engine 7505 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX3024",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_9040",
+    "description": "Flight 9040 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX6477",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8010",
+    "description": "Safety 8010 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX5225",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7762",
+    "description": "Flight 7762 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX4207",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6096",
+    "description": "Flight 6096 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX2967",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_6252",
+    "description": "Engine 6252 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX7942",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_4050",
+    "description": "Maintenance 4050 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX8546",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3727",
+    "description": "Engine 3727 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX5688",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_5013",
+    "description": "Safety 5013 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX7016",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1659",
+    "description": "Maintenance 1659 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX3205",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_5839",
+    "description": "Record 5839 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "BOOL",
+    "sample_value": "EX6412",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_4236",
+    "description": "Engine 4236 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX3994",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1621",
+    "description": "Safety 1621 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX9982",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9283",
+    "description": "Record 9283 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "ENUM",
+    "sample_value": "EX2613",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_6056",
+    "description": "Engine 6056 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX8884",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_5182",
+    "description": "Maintenance 5182 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX4947",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_5166",
+    "description": "Flight 5166 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX5164",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_2924",
+    "description": "Safety 2924 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX5933",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_8089",
+    "description": "Engine 8089 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX8313",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5300",
+    "description": "Engine 5300 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX5371",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7782",
+    "description": "Maintenance 7782 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX7721",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_9614",
+    "description": "Safety 9614 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX3455",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_4532",
+    "description": "Engine 4532 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX8385",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_1277",
+    "description": "Engine 1277 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX7852",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_7178",
+    "description": "Maintenance 7178 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX9197",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_1271",
+    "description": "Maintenance 1271 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "FLOAT",
+    "sample_value": "EX3227",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_2428",
+    "description": "Safety 2428 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX6092",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_8503",
+    "description": "Maintenance 8503 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX1325",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_3882",
+    "description": "Maintenance 3882 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX9059",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6411",
+    "description": "Record 6411 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX4465",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2429",
+    "description": "Maintenance 2429 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX3789",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_9506",
+    "description": "Engine 9506 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "FLOAT",
+    "sample_value": "EX6918",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_9239",
+    "description": "Record 9239 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX1920",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1636",
+    "description": "Flight 1636 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX5686",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_2075",
+    "description": "Engine 2075 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "DATE",
+    "sample_value": "EX5729",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_4359",
+    "description": "Engine 4359 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX2490",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_5504",
+    "description": "Maintenance 5504 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX3482",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_4920",
+    "description": "Record 4920 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX9306",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_3173",
+    "description": "Engine 3173 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX4522",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1585",
+    "description": "Flight 1585 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX9069",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1332",
+    "description": "Flight 1332 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX9712",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_1041",
+    "description": "Flight 1041 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "FLOAT",
+    "sample_value": "EX6148",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_1193",
+    "description": "Record 1193 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX3697",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_5749",
+    "description": "Engine 5749 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX6745",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9867",
+    "description": "Maintenance 9867 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX4197",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_4171",
+    "description": "Safety 4171 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX6822",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_9640",
+    "description": "Engine 9640 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX6128",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6777",
+    "description": "Flight 6777 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX2878",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_1278",
+    "description": "Maintenance 1278 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX4627",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6327",
+    "description": "Flight 6327 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX3147",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_2363",
+    "description": "Record 2363 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX9413",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4161",
+    "description": "Record 4161 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX3493",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_9321",
+    "description": "Safety 9321 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX1831",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2965",
+    "description": "Safety 2965 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX3469",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2539",
+    "description": "Safety 2539 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX2867",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9393",
+    "description": "Maintenance 9393 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX3740",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_2093",
+    "description": "Record 2093 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "DATE",
+    "sample_value": "EX4638",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5746",
+    "description": "Maintenance 5746 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX8368",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4418",
+    "description": "Record 4418 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX4050",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6371",
+    "description": "Safety 6371 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "BOOL",
+    "sample_value": "EX2188",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_4140",
+    "description": "Engine 4140 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "ENUM",
+    "sample_value": "EX5304",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_6248",
+    "description": "Engine 6248 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX2393",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5602",
+    "description": "Safety 5602 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX6590",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1561",
+    "description": "Safety 1561 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX4320",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3299",
+    "description": "Engine 3299 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX7317",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4841",
+    "description": "Record 4841 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX6275",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5609",
+    "description": "Engine 5609 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX1271",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7717",
+    "description": "Flight 7717 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX7264",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_9882",
+    "description": "Record 9882 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX7107",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7776",
+    "description": "Safety 7776 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX1555",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6614",
+    "description": "Record 6614 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX2061",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_3665",
+    "description": "Maintenance 3665 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX9211",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_2158",
+    "description": "Record 2158 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX6708",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2500",
+    "description": "Flight 2500 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX5299",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_1403",
+    "description": "Engine 1403 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX4311",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_6830",
+    "description": "Safety 6830 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX9015",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_4953",
+    "description": "Record 4953 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX2140",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_9347",
+    "description": "Maintenance 9347 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX8822",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1541",
+    "description": "Flight 1541 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX9764",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_8599",
+    "description": "Engine 8599 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX1910",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3881",
+    "description": "Engine 3881 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX7980",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8157",
+    "description": "Safety 8157 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX5524",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6456",
+    "description": "Flight 6456 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX2821",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_5329",
+    "description": "Engine 5329 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX1415",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_5174",
+    "description": "Safety 5174 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX1783",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5518",
+    "description": "Safety 5518 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX3292",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7679",
+    "description": "Safety 7679 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX8490",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_7750",
+    "description": "Record 7750 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX5235",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_9178",
+    "description": "Engine 9178 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX1374",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_8358",
+    "description": "Maintenance 8358 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX2219",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_1968",
+    "description": "Engine 1968 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX2463",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_7716",
+    "description": "Engine 7716 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX7263",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8052",
+    "description": "Safety 8052 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX3396",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_2239",
+    "description": "Maintenance 2239 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX7742",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5437",
+    "description": "Safety 5437 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX9133",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_6798",
+    "description": "Engine 6798 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX4501",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8556",
+    "description": "Flight 8556 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX3996",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6846",
+    "description": "Record 6846 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX5168",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5305",
+    "description": "Safety 5305 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX7187",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5662",
+    "description": "Flight 5662 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX4469",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_3035",
+    "description": "Engine 3035 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX4424",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_5055",
+    "description": "Record 5055 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX2294",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_4447",
+    "description": "Safety 4447 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "BOOL",
+    "sample_value": "EX3146",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1723",
+    "description": "Flight 1723 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX7550",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6275",
+    "description": "Flight 6275 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "BOOL",
+    "sample_value": "EX6606",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8782",
+    "description": "Record 8782 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX5127",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7156",
+    "description": "Record 7156 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX1453",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_5757",
+    "description": "Engine 5757 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX6523",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4233",
+    "description": "Record 4233 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX3044",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_4982",
+    "description": "Flight 4982 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX2067",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2892",
+    "description": "Flight 2892 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX8787",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1822",
+    "description": "Safety 1822 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX1520",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9479",
+    "description": "Record 9479 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "DATE",
+    "sample_value": "EX6476",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_5253",
+    "description": "Record 5253 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX9957",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_3752",
+    "description": "Safety 3752 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX1504",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8197",
+    "description": "Flight 8197 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX3891",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5401",
+    "description": "Maintenance 5401 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX9844",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_5111",
+    "description": "Record 5111 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX5802",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3153",
+    "description": "Engine 3153 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX5718",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_7974",
+    "description": "Maintenance 7974 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "DATE",
+    "sample_value": "EX7900",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_4027",
+    "description": "Flight 4027 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX3224",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_7786",
+    "description": "Engine 7786 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX6653",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3934",
+    "description": "Record 3934 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX6921",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_1323",
+    "description": "Maintenance 1323 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX3524",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_4758",
+    "description": "Engine 4758 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX8863",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5409",
+    "description": "Flight 5409 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX2418",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2048",
+    "description": "Maintenance 2048 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX7373",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7009",
+    "description": "Record 7009 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX6535",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_6728",
+    "description": "Record 6728 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX2787",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_9623",
+    "description": "Engine 9623 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX3446",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7466",
+    "description": "Record 7466 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX2686",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7410",
+    "description": "Maintenance 7410 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX6027",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_3755",
+    "description": "Safety 3755 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX5624",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8860",
+    "description": "Flight 8860 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX1586",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_2678",
+    "description": "Record 2678 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX1836",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_8245",
+    "description": "Safety 8245 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX8655",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_1176",
+    "description": "Engine 1176 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX2565",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8094",
+    "description": "Record 8094 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX1646",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6927",
+    "description": "Flight 6927 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX4256",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_4029",
+    "description": "Engine 4029 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX9416",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6396",
+    "description": "Flight 6396 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX7115",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8595",
+    "description": "Record 8595 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX2695",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7489",
+    "description": "Flight 7489 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX6434",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7689",
+    "description": "Record 7689 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX3343",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3219",
+    "description": "Record 3219 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX6882",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_3781",
+    "description": "Flight 3781 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX8344",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_7063",
+    "description": "Record 7063 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX1467",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5691",
+    "description": "Engine 5691 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX3845",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_2850",
+    "description": "Engine 2850 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX4862",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_2638",
+    "description": "Flight 2638 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX8228",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_3264",
+    "description": "Record 3264 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX8031",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7722",
+    "description": "Flight 7722 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX6104",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_4569",
+    "description": "Flight 4569 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX3949",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7308",
+    "description": "Flight 7308 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX1023",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_2786",
+    "description": "Engine 2786 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX9165",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7426",
+    "description": "Maintenance 7426 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX4608",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_6556",
+    "description": "Engine 6556 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX2644",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_1185",
+    "description": "Engine 1185 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX2820",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_7613",
+    "description": "Maintenance 7613 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX1619",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_5252",
+    "description": "Safety 5252 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX2133",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_2387",
+    "description": "Maintenance 2387 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX7705",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_9780",
+    "description": "Engine 9780 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX3820",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6525",
+    "description": "Flight 6525 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "ENUM",
+    "sample_value": "EX5339",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7473",
+    "description": "Maintenance 7473 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX8370",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_3001",
+    "description": "Record 3001 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX1070",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_3587",
+    "description": "Safety 3587 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX5411",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_9755",
+    "description": "Flight 9755 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX5199",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_3232",
+    "description": "Flight 3232 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX8392",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_2546",
+    "description": "Engine 2546 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "BOOL",
+    "sample_value": "EX6903",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_5815",
+    "description": "Maintenance 5815 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX8099",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_4434",
+    "description": "Safety 4434 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX1896",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_3911",
+    "description": "Flight 3911 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX9029",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_7533",
+    "description": "Engine 7533 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "ENUM",
+    "sample_value": "EX7066",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8834",
+    "description": "Record 8834 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX1253",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_6529",
+    "description": "Engine 6529 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX2516",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_1018",
+    "description": "Engine 1018 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX4723",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_2391",
+    "description": "Safety 2391 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX1882",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6839",
+    "description": "Flight 6839 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX6660",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7774",
+    "description": "Safety 7774 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX9731",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_2502",
+    "description": "Record 2502 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX2467",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2405",
+    "description": "Safety 2405 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX7411",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2691",
+    "description": "Flight 2691 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX1277",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7093",
+    "description": "Flight 7093 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX3996",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6744",
+    "description": "Record 6744 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX6702",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1620",
+    "description": "Safety 1620 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX7008",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_3158",
+    "description": "Safety 3158 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX6310",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7787",
+    "description": "Maintenance 7787 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX9003",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5506",
+    "description": "Maintenance 5506 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX8238",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_6113",
+    "description": "Maintenance 6113 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX6037",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_3828",
+    "description": "Flight 3828 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX1234",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6327",
+    "description": "Record 6327 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX3096",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_3404",
+    "description": "Safety 3404 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX9377",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6868",
+    "description": "Record 6868 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX9370",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_4771",
+    "description": "Record 4771 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX3199",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_7836",
+    "description": "Engine 7836 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX8488",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8360",
+    "description": "Record 8360 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX9387",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5505",
+    "description": "Flight 5505 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX2126",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1707",
+    "description": "Flight 1707 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX2755",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_2985",
+    "description": "Engine 2985 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX3956",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_8421",
+    "description": "Record 8421 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX3018",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2182",
+    "description": "Flight 2182 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX1385",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9807",
+    "description": "Maintenance 9807 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "BOOL",
+    "sample_value": "EX8786",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_8829",
+    "description": "Engine 8829 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX6888",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_1118",
+    "description": "Maintenance 1118 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "ENUM",
+    "sample_value": "EX7265",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6994",
+    "description": "Safety 6994 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX1009",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_2485",
+    "description": "Safety 2485 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX3315",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_1282",
+    "description": "Record 1282 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX1529",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2717",
+    "description": "Safety 2717 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX7386",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_2032",
+    "description": "Engine 2032 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX6436",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9788",
+    "description": "Record 9788 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "DATE",
+    "sample_value": "EX4428",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1893",
+    "description": "Safety 1893 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX7333",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_8069",
+    "description": "Engine 8069 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "ENUM",
+    "sample_value": "EX5976",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_1600",
+    "description": "Record 1600 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX2161",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9055",
+    "description": "Maintenance 9055 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX6842",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2591",
+    "description": "Maintenance 2591 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX5523",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_9038",
+    "description": "Engine 9038 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX7258",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_9513",
+    "description": "Flight 9513 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX2630",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_3466",
+    "description": "Maintenance 3466 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX8060",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2326",
+    "description": "Flight 2326 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX7382",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3514",
+    "description": "Engine 3514 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX4750",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_4587",
+    "description": "Safety 4587 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX8465",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_3577",
+    "description": "Maintenance 3577 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX5127",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_9402",
+    "description": "Flight 9402 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX3726",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_6203",
+    "description": "Maintenance 6203 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "DATE",
+    "sample_value": "EX8744",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4290",
+    "description": "Record 4290 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX3763",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_9629",
+    "description": "Engine 9629 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX7660",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_6971",
+    "description": "Engine 6971 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX9106",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_1428",
+    "description": "Flight 1428 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX5105",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1296",
+    "description": "Maintenance 1296 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX7001",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_4187",
+    "description": "Maintenance 4187 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX5799",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_6972",
+    "description": "Safety 6972 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX2664",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6567",
+    "description": "Safety 6567 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX9128",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7321",
+    "description": "Record 7321 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX4383",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_8416",
+    "description": "Maintenance 8416 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX8680",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1807",
+    "description": "Safety 1807 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX7243",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_4490",
+    "description": "Flight 4490 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "BOOL",
+    "sample_value": "EX4405",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_5739",
+    "description": "Engine 5739 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX1568",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2012",
+    "description": "Safety 2012 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX3365",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7574",
+    "description": "Safety 7574 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "BOOL",
+    "sample_value": "EX4770",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_3428",
+    "description": "Record 3428 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX6022",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_9380",
+    "description": "Flight 9380 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "BOOL",
+    "sample_value": "EX3844",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_4203",
+    "description": "Engine 4203 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX9092",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4677",
+    "description": "Maintenance 4677 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX8929",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_9852",
+    "description": "Maintenance 9852 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX7048",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8522",
+    "description": "Flight 8522 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX2834",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_5439",
+    "description": "Safety 5439 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX5696",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_7022",
+    "description": "Engine 7022 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX2421",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5553",
+    "description": "Flight 5553 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX2966",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_5207",
+    "description": "Flight 5207 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX6425",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9492",
+    "description": "Record 9492 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX8178",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_6069",
+    "description": "Maintenance 6069 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX7193",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6105",
+    "description": "Flight 6105 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX6471",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8423",
+    "description": "Safety 8423 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX7598",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_8705",
+    "description": "Maintenance 8705 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX5878",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1665",
+    "description": "Safety 1665 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX7501",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_3043",
+    "description": "Maintenance 3043 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "ENUM",
+    "sample_value": "EX5803",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_8782",
+    "description": "Safety 8782 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX6021",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1299",
+    "description": "Safety 1299 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX1318",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_2593",
+    "description": "Safety 2593 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX9957",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_3162",
+    "description": "Maintenance 3162 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "ENUM",
+    "sample_value": "EX8076",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_6307",
+    "description": "Safety 6307 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX4353",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1917",
+    "description": "Safety 1917 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX4213",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4083",
+    "description": "Record 4083 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX2912",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9520",
+    "description": "Record 9520 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX8349",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_4721",
+    "description": "Engine 4721 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX1494",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5329",
+    "description": "Maintenance 5329 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX3008",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8842",
+    "description": "Flight 8842 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX7145",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5538",
+    "description": "Maintenance 5538 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX2089",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_7213",
+    "description": "Engine 7213 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX7975",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_9698",
+    "description": "Flight 9698 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX1272",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3438",
+    "description": "Record 3438 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX5540",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_4611",
+    "description": "Safety 4611 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX2855",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3159",
+    "description": "Record 3159 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX4075",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8796",
+    "description": "Flight 8796 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX1560",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8234",
+    "description": "Record 8234 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX9621",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2014",
+    "description": "Safety 2014 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "ENUM",
+    "sample_value": "EX8878",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5554",
+    "description": "Engine 5554 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "FLOAT",
+    "sample_value": "EX2461",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_2388",
+    "description": "Engine 2388 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX7490",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_8872",
+    "description": "Safety 8872 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX3949",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3415",
+    "description": "Record 3415 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX4657",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9615",
+    "description": "Maintenance 9615 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX4949",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6578",
+    "description": "Flight 6578 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "FLOAT",
+    "sample_value": "EX5471",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_8683",
+    "description": "Maintenance 8683 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX4650",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_7457",
+    "description": "Maintenance 7457 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX2976",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_4830",
+    "description": "Flight 4830 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "DATE",
+    "sample_value": "EX7023",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_1387",
+    "description": "Maintenance 1387 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "BOOL",
+    "sample_value": "EX6883",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1970",
+    "description": "Maintenance 1970 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX5867",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7311",
+    "description": "Safety 7311 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX8227",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1785",
+    "description": "Maintenance 1785 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX3792",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_9276",
+    "description": "Record 9276 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "BOOL",
+    "sample_value": "EX9178",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_1031",
+    "description": "Engine 1031 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX4597",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_3123",
+    "description": "Safety 3123 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX6865",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9515",
+    "description": "Maintenance 9515 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX6623",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7378",
+    "description": "Safety 7378 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX1047",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5926",
+    "description": "Flight 5926 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX8449",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_3964",
+    "description": "Flight 3964 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX8602",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_2297",
+    "description": "Record 2297 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX2106",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_2580",
+    "description": "Engine 2580 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX9891",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_4567",
+    "description": "Safety 4567 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX5163",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6923",
+    "description": "Record 6923 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX5763",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1276",
+    "description": "Safety 1276 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "FLOAT",
+    "sample_value": "EX5914",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2717",
+    "description": "Flight 2717 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX2744",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_3573",
+    "description": "Maintenance 3573 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX4422",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_4086",
+    "description": "Record 4086 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX8405",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2888",
+    "description": "Maintenance 2888 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX3989",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_4479",
+    "description": "Safety 4479 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX9814",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_4980",
+    "description": "Safety 4980 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "ENUM",
+    "sample_value": "EX5010",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2497",
+    "description": "Maintenance 2497 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "STRING",
+    "sample_value": "EX4088",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_6504",
+    "description": "Engine 6504 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "FLOAT",
+    "sample_value": "EX5514",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5506",
+    "description": "Safety 5506 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX2815",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5026",
+    "description": "Maintenance 5026 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX2313",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_5456",
+    "description": "Record 5456 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX3395",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4602",
+    "description": "Record 4602 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX4447",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_3426",
+    "description": "Safety 3426 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX9619",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_3493",
+    "description": "Flight 3493 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX5486",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_5592",
+    "description": "Record 5592 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX2919",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_2100",
+    "description": "Record 2100 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX3413",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_3230",
+    "description": "Flight 3230 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX2394",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_4059",
+    "description": "Flight 4059 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX4439",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8883",
+    "description": "Safety 8883 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX1272",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6495",
+    "description": "Flight 6495 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX2342",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_2224",
+    "description": "Maintenance 2224 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX9220",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6515",
+    "description": "Record 6515 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX6413",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7575",
+    "description": "Safety 7575 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX2206",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4134",
+    "description": "Record 4134 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX9502",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_6943",
+    "description": "Maintenance 6943 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX5592",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6341",
+    "description": "Safety 6341 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX8497",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7390",
+    "description": "Flight 7390 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX9166",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7667",
+    "description": "Flight 7667 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX8768",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1069",
+    "description": "Safety 1069 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX2130",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7929",
+    "description": "Flight 7929 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX3520",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5845",
+    "description": "Safety 5845 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX2397",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6567",
+    "description": "Record 6567 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX9772",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_4651",
+    "description": "Flight 4651 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX7253",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_3406",
+    "description": "Engine 3406 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX4483",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_7092",
+    "description": "Maintenance 7092 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "FLOAT",
+    "sample_value": "EX7761",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8696",
+    "description": "Flight 8696 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX4309",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5656",
+    "description": "Safety 5656 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX3261",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7821",
+    "description": "Maintenance 7821 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX4330",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_2399",
+    "description": "Engine 2399 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX6776",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5731",
+    "description": "Flight 5731 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "DATE",
+    "sample_value": "EX1953",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_5327",
+    "description": "Safety 5327 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX2978",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_1879",
+    "description": "Engine 1879 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX6286",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8912",
+    "description": "Flight 8912 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX7453",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_6443",
+    "description": "Safety 6443 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX4397",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_8354",
+    "description": "Record 8354 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX8181",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_9324",
+    "description": "Record 9324 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "DATE",
+    "sample_value": "EX6571",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_2671",
+    "description": "Flight 2671 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX4760",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_5081",
+    "description": "Record 5081 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX5586",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1446",
+    "description": "Maintenance 1446 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX8473",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_9655",
+    "description": "Flight 9655 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX1525",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2071",
+    "description": "Safety 2071 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX1143",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_5072",
+    "description": "Safety 5072 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX6544",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7925",
+    "description": "Record 7925 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX8969",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5349",
+    "description": "Engine 5349 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX4810",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7290",
+    "description": "Safety 7290 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX3370",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_5798",
+    "description": "Record 5798 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX2247",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_3023",
+    "description": "Flight 3023 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX1780",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_3795",
+    "description": "Safety 3795 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX8948",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_9057",
+    "description": "Flight 9057 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX6786",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_2286",
+    "description": "Engine 2286 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "STRING",
+    "sample_value": "EX2678",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_2622",
+    "description": "Safety 2622 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "INT",
+    "sample_value": "EX5034",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7801",
+    "description": "Flight 7801 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX1743",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7906",
+    "description": "Flight 7906 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX9127",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7036",
+    "description": "Record 7036 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX2794",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5104",
+    "description": "Flight 5104 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "DATE",
+    "sample_value": "EX8915",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4075",
+    "description": "Maintenance 4075 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX3964",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_6551",
+    "description": "Engine 6551 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "FLOAT",
+    "sample_value": "EX9932",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_3241",
+    "description": "Engine 3241 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "BOOL",
+    "sample_value": "EX4439",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_9177",
+    "description": "Maintenance 9177 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX1011",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6898",
+    "description": "Flight 6898 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX8553",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4442",
+    "description": "Maintenance 4442 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX4586",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_1721",
+    "description": "Safety 1721 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX5658",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8463",
+    "description": "Flight 8463 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX1690",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_5461",
+    "description": "Record 5461 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX9369",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3316",
+    "description": "Record 3316 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX1169",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3542",
+    "description": "Engine 3542 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX5118",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2104",
+    "description": "Safety 2104 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX4267",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_1479",
+    "description": "Record 1479 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "BOOL",
+    "sample_value": "EX4547",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7808",
+    "description": "Flight 7808 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX8612",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7242",
+    "description": "Safety 7242 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX6190",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_1257",
+    "description": "Engine 1257 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX1682",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_7886",
+    "description": "Engine 7886 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX9524",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7267",
+    "description": "Maintenance 7267 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX8706",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_5133",
+    "description": "Record 5133 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX7227",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_1646",
+    "description": "Flight 1646 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "DATE",
+    "sample_value": "EX9353",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8277",
+    "description": "Safety 8277 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "STRING",
+    "sample_value": "EX6750",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_7293",
+    "description": "Record 7293 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "ENUM",
+    "sample_value": "EX4381",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9983",
+    "description": "Maintenance 9983 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX6980",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_3124",
+    "description": "Engine 3124 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX2050",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4342",
+    "description": "Maintenance 4342 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX4513",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4270",
+    "description": "Maintenance 4270 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX1583",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8765",
+    "description": "Flight 8765 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX8561",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_8721",
+    "description": "Engine 8721 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "BOOL",
+    "sample_value": "EX1707",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9835",
+    "description": "Maintenance 9835 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX7606",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8749",
+    "description": "Flight 8749 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX2626",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_3611",
+    "description": "Maintenance 3611 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "DATE",
+    "sample_value": "EX1752",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_5742",
+    "description": "Record 5742 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX6193",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_9708",
+    "description": "Maintenance 9708 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX8903",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_7940",
+    "description": "Flight 7940 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX8234",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5482",
+    "description": "Engine 5482 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "DATE",
+    "sample_value": "EX4165",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_9934",
+    "description": "Flight 9934 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX4958",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_1700",
+    "description": "Record 1700 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX9149",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7256",
+    "description": "Safety 7256 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "FLOAT",
+    "sample_value": "EX4537",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7975",
+    "description": "Safety 7975 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "INT",
+    "sample_value": "EX4772",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_7021",
+    "description": "Safety 7021 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "DATE",
+    "sample_value": "EX4807",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_1267",
+    "description": "Maintenance 1267 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "INT",
+    "sample_value": "EX6581",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_8894",
+    "description": "Flight 8894 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "ENUM",
+    "sample_value": "EX1168",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_3862",
+    "description": "Safety 3862 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "DATE",
+    "sample_value": "EX8836",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3013",
+    "description": "Engine 3013 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX8525",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5621",
+    "description": "Flight 5621 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX3838",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_5914",
+    "description": "Maintenance 5914 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX1418",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_1322",
+    "description": "Record 1322 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX6594",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4631",
+    "description": "Maintenance 4631 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX6381",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_5280",
+    "description": "Engine 5280 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX5700",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_2433",
+    "description": "Maintenance 2433 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX5475",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_3201",
+    "description": "Record 3201 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX6497",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8409",
+    "description": "Record 8409 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX6075",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_4000",
+    "description": "Safety 4000 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX3408",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_1967",
+    "description": "Maintenance 1967 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX7191",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_7430",
+    "description": "Record 7430 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "FLOAT",
+    "sample_value": "EX4402",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6238",
+    "description": "Safety 6238 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "FLOAT",
+    "sample_value": "EX5209",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_9520",
+    "description": "Flight 9520 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX4424",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_7625",
+    "description": "Engine 7625 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "ENUM",
+    "sample_value": "EX3669",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_4446",
+    "description": "Record 4446 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX9433",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_9902",
+    "description": "Maintenance 9902 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX1467",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_5692",
+    "description": "Flight 5692 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX2465",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_8840",
+    "description": "Engine 8840 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX5668",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_4026",
+    "description": "Flight 4026 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "FLOAT",
+    "sample_value": "EX6821",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_1605",
+    "description": "Record 1605 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX5598",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_8698",
+    "description": "Engine 8698 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX3959",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_8137",
+    "description": "Record 8137 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "BOOL",
+    "sample_value": "EX5583",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_7403",
+    "description": "Record 7403 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "ENUM",
+    "sample_value": "EX8061",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_9564",
+    "description": "Record 9564 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX5168",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_4931",
+    "description": "Record 4931 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX2812",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_4335",
+    "description": "Flight 4335 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX7944",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7043",
+    "description": "Safety 7043 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX7669",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2691",
+    "description": "Safety 2691 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX3213",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1774",
+    "description": "Safety 1774 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX6689",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_4927",
+    "description": "Maintenance 4927 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "BOOL",
+    "sample_value": "EX3660",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7991",
+    "description": "Flight 7991 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX3169",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6417",
+    "description": "Safety 6417 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX6782",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_5435",
+    "description": "Safety 5435 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX5215",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_6610",
+    "description": "Record 6610 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "DATE",
+    "sample_value": "EX6184",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_7980",
+    "description": "Safety 7980 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX8088",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_9360",
+    "description": "Flight 9360 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX7614",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_6054",
+    "description": "Flight 6054 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "STRING",
+    "sample_value": "EX3031",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_8237",
+    "description": "Maintenance 8237 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "BOOL",
+    "sample_value": "EX6751",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_2290",
+    "description": "Maintenance 2290 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "BOOL",
+    "sample_value": "EX6962",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_1399",
+    "description": "Engine 1399 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "FLOAT",
+    "sample_value": "EX5355",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_9016",
+    "description": "Safety 9016 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "STRING",
+    "sample_value": "EX2373",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6780",
+    "description": "Flight 6780 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX1082",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_9898",
+    "description": "Safety 9898 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX7620",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8147",
+    "description": "Flight 8147 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX9303",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_4910",
+    "description": "Engine 4910 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "ENUM",
+    "sample_value": "EX3896",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_4395",
+    "description": "Maintenance 4395 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "STRING",
+    "sample_value": "EX6212",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_7345",
+    "description": "Maintenance 7345 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "ENUM",
+    "sample_value": "EX1682",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6347",
+    "description": "Record 6347 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX6633",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_7840",
+    "description": "Engine 7840 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX7400",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_6142",
+    "description": "Engine 6142 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX1036",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_2497",
+    "description": "Flight 2497 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "BOOL",
+    "sample_value": "EX8925",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2762",
+    "description": "Maintenance 2762 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX2144",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_9852",
+    "description": "Safety 9852 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX9548",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_2033",
+    "description": "Maintenance 2033 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "INT",
+    "sample_value": "EX6285",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Maintenance_5520",
+    "description": "Maintenance 5520 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX4177",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_6975",
+    "description": "Flight 6975 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "STRING",
+    "sample_value": "EX7958",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_5256",
+    "description": "Flight 5256 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "BOOL",
+    "sample_value": "EX4444",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_3717",
+    "description": "Record 3717 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX5235",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_5433",
+    "description": "Maintenance 5433 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "ENUM",
+    "sample_value": "EX1033",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1402",
+    "description": "Safety 1402 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "FLOAT",
+    "sample_value": "EX6371",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_2069",
+    "description": "Engine 2069 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "STRING",
+    "sample_value": "EX2144",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Engine_3826",
+    "description": "Engine 3826 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "INT",
+    "sample_value": "EX8874",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_5706",
+    "description": "Flight 5706 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "INT",
+    "sample_value": "EX8532",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_1537",
+    "description": "Flight 1537 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "FLOAT",
+    "sample_value": "EX8786",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Record_6071",
+    "description": "Record 6071 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "DATE",
+    "sample_value": "EX4697",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6956",
+    "description": "Safety 6956 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "INT",
+    "sample_value": "EX7852",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_9733",
+    "description": "Safety 9733 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX9358",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_2759",
+    "description": "Safety 2759 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX8339",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_3956",
+    "description": "Engine 3956 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "ENUM",
+    "sample_value": "EX9700",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Flight_7784",
+    "description": "Flight 7784 details for aviation operations.",
+    "source_system": "ACARS",
+    "data_type": "FLOAT",
+    "sample_value": "EX2849",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Engine_5061",
+    "description": "Engine 5061 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "ENUM",
+    "sample_value": "EX5210",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_8140",
+    "description": "Record 8140 details for aviation operations.",
+    "source_system": "ASAP Database",
+    "data_type": "BOOL",
+    "sample_value": "EX7438",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_3764",
+    "description": "Maintenance 3764 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "ENUM",
+    "sample_value": "EX3653",
+    "compliance_relevance": "Part 121.557",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_8823",
+    "description": "Flight 8823 details for aviation operations.",
+    "source_system": "Scheduling System",
+    "data_type": "INT",
+    "sample_value": "EX6211",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Maintenance_4355",
+    "description": "Maintenance 4355 details for aviation operations.",
+    "source_system": "FDR",
+    "data_type": "BOOL",
+    "sample_value": "EX7803",
+    "compliance_relevance": "ICAO Annex 6",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_6472",
+    "description": "Safety 6472 details for aviation operations.",
+    "source_system": "MX System",
+    "data_type": "FLOAT",
+    "sample_value": "EX6089",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Flight_4288",
+    "description": "Flight 4288 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "BOOL",
+    "sample_value": "EX8093",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  },
+  {
+    "data_element": "Safety_1670",
+    "description": "Safety 1670 details for aviation operations.",
+    "source_system": "Flight Dispatch",
+    "data_type": "DATE",
+    "sample_value": "EX9770",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Safety_8657",
+    "description": "Safety 8657 details for aviation operations.",
+    "source_system": "SMS Portal",
+    "data_type": "INT",
+    "sample_value": "EX1459",
+    "compliance_relevance": "NTSB 830",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_5474",
+    "description": "Record 5474 details for aviation operations.",
+    "source_system": "FOQA",
+    "data_type": "FLOAT",
+    "sample_value": "EX9063",
+    "compliance_relevance": "FAA 135.421",
+    "controlled_vocab": "No"
+  },
+  {
+    "data_element": "Record_4909",
+    "description": "Record 4909 details for aviation operations.",
+    "source_system": "FAA Registry",
+    "data_type": "STRING",
+    "sample_value": "EX2921",
+    "compliance_relevance": "FAA AC 120-92B",
+    "controlled_vocab": "Yes"
+  }
+]

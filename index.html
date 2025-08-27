@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aviation Data Dictionary</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header><h1>Aviation Data Dictionary</h1></header>
+  <main>
+    <div class="filters">
+      <div id="sourceSystemFilter" class="checkbox-group"></div>
+      <div id="dataTypeFilter" class="checkbox-group"></div>
+    </div>
+    <input type="text" id="searchInput" placeholder="Search data elements..." />
+    <table id="dictionaryTable">
+      <thead><tr><th>Data Element</th><th>Description</th><th>Source System</th><th>Data Type</th>
+      <th>Sample Value</th><th>Compliance Relevance</th><th>Controlled Vocab</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <div id="pagination">
+      <button id="prevPage">Previous</button><span id="pageInfo"></span><button id="nextPage">Next</button>
+    </div>
+  </main>
+  <footer><p><strong>Disclaimer:</strong> This dictionary is for informational use only.</p></footer>
+  <script src="script.js"></script>
+</body>
+</html>
